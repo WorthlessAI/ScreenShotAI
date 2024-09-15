@@ -1,6 +1,6 @@
-# Screenshot AI
+# ScreenShotAI
 
-AI powered Screenshooter
+A worthless AI powered Screenshooter
 
 ## Installation
 ```
@@ -8,7 +8,7 @@ conda create --name aiscreenshot python=3.10
 conda activate aiscreenshot
 ```
 ```
-git clone https://github.com/WorthlessAI/ScreenShot_Sham.git
+git clone https://github.com/WorthlessAI/ScreenShotAI.git
 pip3 install -r requirements.txt
 ```
 
